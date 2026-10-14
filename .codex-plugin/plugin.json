@@ -1,0 +1,29 @@
+{
+  "name": "momocard",
+  "version": "1.0.0",
+  "description": "墨墨记忆卡（Markji）制卡助手：将知识点转换为语法正确、易于背诵、美观的墨墨记忆卡文本，挖空聚焦重点难点易错点",
+  "author": {
+    "name": "Lex"
+  },
+  "keywords": [
+    "maimemo",
+    "markji",
+    "记忆卡",
+    "背诵",
+    "学习"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Momocard",
+    "shortDescription": "将知识点转换为 Markji 背诵卡片",
+    "longDescription": "把知识点、笔记或文档转换为可直接粘贴进墨墨记忆卡的文本，保持原文措辞，按重点、难点和易错点设计挖空，并统一卡片配色与版式。",
+    "developerName": "Lex",
+    "category": "Education & Research",
+    "capabilities": [],
+    "defaultPrompt": [
+      "把牛顿第二定律和动量守恒做成墨墨记忆卡",
+      "将这份笔记转换为符合 Markji 语法的挖空卡片",
+      "把这些容易混淆的概念整理成选择题卡片"
+    ]
+  }
+}

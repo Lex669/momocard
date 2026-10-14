@@ -1,0 +1,9 @@
+{
+  "name": "momocard",
+  "version": "1.0.0",
+  "description": "墨墨记忆卡（Markji）制卡助手：将知识点转换为语法正确、易于背诵、美观的墨墨记忆卡文本，挖空聚焦重点难点易错点",
+  "author": {
+    "name": "Lex"
+  },
+  "keywords": ["maimemo", "markji", "记忆卡", "背诵", "学习"]
+}
